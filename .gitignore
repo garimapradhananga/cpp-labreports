@@ -1,0 +1,14 @@
+
+# Compiled executables
+*.exe
+
+# Temporary VS Code files
+tempCodeRunnerFile.cpp
+
+# VS Code workspace files
+*.code-workspace
+
+# Object files
+*.o
+
+.vscode/
